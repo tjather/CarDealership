@@ -1,0 +1,29 @@
+John Elway Dodge
+1010
+2
+XXVIN123
+Dodge
+Ram 1500 Quad Cab
+2017
+45186.00
+AAVIN456
+Chevrolet
+Traverse Premier SUV
+2017
+47868.00
+Tesla Cherry Creek
+234
+1
+VIN789
+Tesla
+Model X
+2017
+105200
+Tesla Colfax
+1020
+1
+VIN665
+Tesla Gold
+Model XZW
+2020
+10800
