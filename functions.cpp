@@ -1,10 +1,9 @@
 //
-// Project name : Programming Assignment 3
+// Project name : CarDealership
 // Program name : functions.cpp
 //
 /*
 	NAME: Talha Ather
-	CLASS: CSCI 1410
 	DESCRIPTION:The prupose of this program is to manage cars in diffrent dealerships.
 				The program can read a list of dealers and cars from a file, display thoses dealers, choose a dealer, display and add cars, and then write the entire list to a new file.
 				This file contains the the function definitions and algorithms for Programming Assignment 3.
